@@ -1,0 +1,234 @@
+{                                                                                                                                                                                     
+   "meta": {                                                                                                                                                                           
+      "theme": "professional"                                                                                                                                                           
+    },                                                                                                                                                                                  
+   "basics": {                                                                                                                                                                         
+      "name": "Fahad Ameen Rajput",                                                                                                                                                           
+      "email": "fahadameenrajput@gmail.com",                                                                                                                                            
+      "phone": "03424815979",                                                                                                                                                           
+      "label": "Sr. DevOps & Full Stack Engineer",                                                                                                                                      
+      "image": "",                                                                                                                                                                      
+      "url": "https://portfolio.faadii.systems/projectPage",                                                                                                                            
+      "location": {                                                                                                                                                                     
+        "city": "Hyderabad",                                                                                                                                                            
+        "countryCode": "PK"                                                                                                                                                             
+      },                                                                                                                                                                                
+      "profiles": [                                                                                                                                                                     
+        {                                                                                                                                                                               
+          "network": "GitHub",                                                                                                                                                          
+          "url": "https://www.github.com/mr-fahad-rajput",                                                                                                                              
+          "username": "Mr-Fahad-Rajput"                                                                                                                                                 
+        }                                                                                                                                                                               
+      ],                                                                                                                                                                                
+      "summary": "Passionate Programmer, Struggling Businessman and a Man of Science."                                                                                                  
+    },                                                                                                                                                                                  
+   "education": [                                                                                                                                                                      
+      {                                                                                                                                                                                 
+        "studyType": "Senior Secondary Education",                                                                                                                                      
+        "institution": "St. Bonaventure's High School",                                                                                                                                 
+        "startDate": "2005-05",                                                                                                                                                         
+        "endDate": "2015-05",                                                                                                                                                           
+        "location": "Hyderabad",                                                                                                                                                        
+        "courses": []                                                                                                                                                                   
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "studyType": "Intermediate",                                                                                                                                                    
+        "institution": "Punjab College",                                                                                                                                                
+        "startDate": "2015-06",                                                                                                                                                         
+        "endDate": "2017-06",                                                                                                                                                           
+        "location": "Okara",                                                                                                                                                            
+        "courses": []                                                                                                                                                                   
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "studyType": "Bachelor's in Software Engineering",                                                                                                                              
+        "institution": "Comsats University Islamabad",                                                                                                                                  
+        "startDate": "2019-02",                                                                                                                                                         
+        "endDate": "2023-02",                                                                                                                                                           
+        "location": "Lahore Campus",                                                                                                                                                    
+        "courses": []                                                                                                                                                                   
+      }                                                                                                                                                                                 
+    ],                                                                                                                                                                                  
+   "work": [                                                                                                                                                                           
+            {                                                                                                                                                                           
+    "name": "Dynaread",                                                                                                                                                                 
+    "position": "Principal DevOps Engineer",                                                                                                                                            
+    "startDate": "2025-03",                                                                                                                                                             
+    "current": true,                                                                                                                                                                    
+    "location": "Cranbrook, British Columbia, Canada (Remote)",                                                                                                                         
+    "description": "Educational technology company focused on helping children with dyslexia improve their reading skills through specialized software solutions.",                     
+    "highlights": [                                                                                                                                                                     
+      "Started as a Sr. DevOps Engineer",                                                                                                                                               
+      "Led migrations from LAMP5 to LAMP8 for approximately 12 websites and web applications",                                                                                          
+      "Successfully migrated infrastructure from GCP to Digital Ocean including sites, microservices, and databases",                                                                   
+      "Established multiple CI/CD pipelines on GitLab with multiple runners",                                                                                                           
+      "Implemented Blue/Green Methodology For Deployments For Zero Downtimes",                                                                                                          
+      "Containerized applications using Docker to improve deployment consistency",                                                                                                      
+      "Setup, migrated and managed MySQL databases from version 5 to 8"                                                                                                                 
+    ]                                                                                                                                                                                   
+  },                                                                                                                                                                                    
+      {                                                                                                                                                                                 
+        "name": "Homiee",                                                                                                                                                               
+        "position": "Principal Engineering Lead",                                                                                                                                       
+        "startDate": "2023-11",                                                                                                                                                         
+        "endDate": "2024-12",                                                                                                                                                           
+        "location": "Sydney, Australia (Remote)",                                                                                                                                       
+        "description": "Property Related Australian Startup, with 4 Patent Technologies mostly revolving Around Map Features.",                                                         
+        "highlights": [                                                                                                                                                                 
+          "Started as a Jr. DevOps Engineer",                                                                                                                                           
+          "Setup CI/CD for all there Micro-services",                                                                                                                                   
+          "Spearheaded Full Stack Development",                                                                                                                                         
+          "Became the Principal Engineering Lead and Took Care of Every Technical Aspect of the Company"                                                                                
+        ]                                                                                                                                                                               
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "name": "Upwork",                                                                                                                                                               
+        "position": "Freelancing",                                                                                                                                                      
+        "startDate": "2023-09",                                                                                                                                                         
+        "current": true,                                                                                                                                                                
+        "description": "Self Explanatory",                                                                                                                                              
+        "highlights": [                                                                                                                                                                 
+          "Got The Rising Talent Badge within 4 Weeks",                                                                                                                                 
+          "Top Rated For Almost a Year",                                                                                                                                                
+          "100% Job Success Score",                                                                                                                                                     
+          "5 Star Rating"                                                                                                                                                               
+        ]                                                                                                                                                                               
+      },                                                                                                                                                                               
+      {                                                                                                                                                                                 
+        "name": "Zekab Solutions",                                                                                                                                                      
+        "position": "Jr. Web Developer",                                                                                                                                                
+        "startDate": "2022-12",                                                                                                                                                         
+        "endDate": "2023-03",                                                                                                                                                           
+        "location": "Lahore",                                                                                                                                                           
+        "description": "A software house In Islamabad",                                                                                                                                 
+        "highlights": [                                                                                                                                                                 
+          "React Front End Development",                                                                                                                                                
+          "Express And Node Application Tier Development",                                                                                                                              
+          "Mongoose Back End Development",                                                                                                                                              
+          "Dev Ops Management"                                                                                                                                                          
+        ]                                                                                                                                                                               
+      },
+      {                                                                                                                                                                                 
+        "name": "Tour Takers Pvt. Ltd.",                                                                                                                                                
+        "position": "Business Owner",                                                                                                                                                   
+        "startDate": "2020-08",                                                                                                                                                         
+        "endDate": "2022-08",                                                                                                                                                           
+        "location": "Lahore",                                                                                                                                                           
+        "description": "A self Owned Tour Agency For Trips Around the Country",                                                                                                         
+        "highlights": [                                                                                                                                                                 
+          "A 4 day Tour Every Weekend for almost the entire time the company was operational",                                                                                          
+          "Was Able to Start Another Hotel company with The PR Given By This Profession",                                                                                            
+          "Alot of Social Management Experience Gained"                                                                                                                                 
+        ]                                                                                                                                                                               
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "name": "K. Group of Hotels Pvt. Ltd.",                                                                                                                                         
+        "position": "Business Owner",                                                                                                                                                   
+        "startDate": "2021-05",                                                                                                                                                         
+        "endDate": "2022-01",                                                                                                                                                           
+        "location": "Kumrat Valley",                                                                                                                                                    
+        "description": "A Basic Hotel Chain that usually managed a Couple of Hundred People Each Weekend",                                                                              
+        "highlights": [                                                                                                                                                                 
+          "Had a Net Profit of 1.1 Million Rupees",                                                                                                                                     
+          "Had a Gross of 1.9 Million Rupees",                                                                                                                                          
+          "Managed trips of Almost 350 People a Week"                                                                                                                                   
+        ]                                                                                                                                                                               
+      }                                                                                                                                                                              
+    ],                                                                                                                                                                                  
+   "references": [                                                                                                                                                                     
+           {                                                                                                                                                                            
+            "name": "Hans Dekkers - CEO Dynaread Special Education Corporation",                                                                                                        
+            "reference": "hdekkers@dynaread.com - Email"                                                                                                                                
+          },                                                                                                                                                                            
+         {                                                                                                                                                                              
+            "name": "Steve Tzatzimakis - CEO Homiee AU",                                                                                                                                
+            "reference": "stevetzz - Skype"                                                                                                                                             
+          },                                                                                                                                                                            
+      {                                                                                                                                                                                 
+            "name": "Abdullah Hani - CGO Zekab Group",                                                                                                                                  
+            "reference": "https://www.linkedin.com/in/abdullah-hani-23b627218/ LinkedIn"                                                                                                
+          }                                                                                                                                                                             
+        ],                                                                                                                                                                              
+                                                                                                                                                                                        
+   "skills": [                                                                                                                                                                         
+      {                                                                                                                                                                                 
+        "name": "Core Skills",                                                                                                                                                          
+        "keywords": [                                                                                                                                                                   
+          "Game Dev",                                                                                                                                                                   
+          "Web Development",                                                                                                                                                            
+          "Leadership",                                                                                                                                                                 
+          "Programming",                                                                                                                                                                
+          "HR Management",                                                                                                                                                              
+          "Business",                                                                                                                                                                   
+          "Logic Building"                                                                                                                                                              
+        ]                                                                                                                                                                               
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "name": "Tech Arsenal",                                                                                                                                                         
+        "keywords": [                                                                                                                                                                   
+          "Docker (2022)",                                                                                                                                                              
+          "Prometheus (2022)",                                                                                                                                                          
+          "Grafana (2022)",                                                                                                                                                             
+          "Kubernetes (2022)",                                                                                                                                                          
+          "Digital Ocean (2022)",                                                                                                                                                       
+         "Contabo (2021)",                                                                                                                                                              
+          "Python (2021)",                                                                                                                                                              
+          "AWS (2020)",                                                                                                                                                                 
+          "GCP (2020)",                                                                                                                                                                 
+          "C# (2020)",                                                                                                                                                                  
+          "Unity (2020)",                                                                                                                                                               
+          "Blender (2020)",                                                                                                                                                             
+          "React (2020)",                                                                                                                                                               
+          "Mongo DB (2020)",                                                                                                                                                            
+          "Express (2020)",                                                                                                                                                             
+          "Heroku (2020)",                                                                                                                                                              
+          "C++ (2020)",                                                                                                                                                                 
+          "Java (2019)",                                                                                                                                                                
+          "SQL (2019)",                                                                                                                                                                 
+          "C (2019)",                                                                                                                                                                   
+          "GO Daddy (2018)",                                                                                                                                                            
+          "Hostinger (2018)",                                                                                                                                                           
+          "Nagios (2018)",                                                                                                                                                              
+          "Node (2017)",                                                                                                                                                                
+          "PUG (2017)",                                                                                                                                                                 
+          "EJS (2017)",                                                                                                                                                                 
+          "Java Script (2015)",                                                                                                                                                         
+          "PHP (2015)",                                                                                                                                                                 
+          "HTML (2015)",                                                                                                                                                                
+          "CSS (2015)",                                                                                                                                                                 
+          "Linux Administration (2015)",                                                                                                                                                
+          "Visual Basic (2008 - 2011)",                                                                                                                                                 
+          "Command Line Interface (2004)",                                                                                                                                              
+          "These are Just the Main ones, for Detailed Insight on my Skills and Tech Stacks Please have a Look at my Github and Personal Portfolio"                                      
+        ]                                                                                                                                                                               
+      }                                                                                                                                                                                 
+    ],                                                                                                                                                                                  
+    "projects": [                                                                                                                                                                      
+        {                                                                                                                                                                               
+            "description": "https://www.upwork.com/fl/~019d63159a9ef9ed04?p=1895437634457128960 , https://portfolio.faadii.systems/projectPage",                                        
+            "website": "https://www.upwork.com/fl/~019d63159a9ef9ed04?p=1895437634457128960",                                                                                           
+            "name": "All Projects added on Portfolio Site and Upwork Profile"                                                                                                           
+        }                                                                                                                                                                               
+    ],                                                                                                                                                                                  
+   "languages": [                                                                                                                                                                      
+      {"language": "Urdu", "fluency": "Bilingual"},                                                                                                                                     
+      {"language": "Punjabi", "fluency": "Bilingual"},                                                                                                                                  
+      {"language": "Sindhi", "fluency": "Bilingual"},                                                                                                                                   
+      {"language": "English", "fluency": "Fluent"},                                                                                                                                     
+      {"language": "Siraiki", "fluency": "Limited Wroking Proficiency"},                                                                                                                
+      {"language": "Haryanvi", "fluency": "Professional Working Proficiency"}                                                                                                           
+    ],                                                                                                                                                                                  
+   "interests": [                                                                                                                                                                      
+      {                                                                                                                                                                                 
+        "name": "Technology",                                                                                                                                                           
+        "keywords": ["Emerging Tech", "Data Structures", "Algorithms", "RAG", "MLDevops"]                                                                                               
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "name": "Science",                                                                                                                                                              
+        "keywords": ["Astrophysics", "Quantum Computing"]                                                                                                                               
+      },                                                                                                                                                                                
+      {                                                                                                                                                                                 
+        "name": "Strategy",                                                                                                                                                             
+        "keywords": ["Chess", "Business Development"]                                                                                                                                   
+      }                                                                                                                                                                                 
+    ]                                                                                                                                                                                   
+  }
