@@ -202,13 +202,45 @@
         ]                                                                                                                                                                               
       }                                                                                                                                                                                 
     ],                                                                                                                                                                                  
-    "projects": [                                                                                                                                                                      
-        {                                                                                                                                                                               
-            "description": "https://www.upwork.com/fl/~019d63159a9ef9ed04?p=1895437634457128960 , https://portfolio.faadii.systems/projectPage",                                        
-            "website": "https://www.upwork.com/fl/~019d63159a9ef9ed04?p=1895437634457128960",                                                                                           
-            "name": "All Projects added on Portfolio Site and Upwork Profile"                                                                                                           
-        }                                                                                                                                                                               
-    ],                                                                                                                                                                                  
+  "projects": [
+  {
+    "name": "VisaCloud CI/CD Automation",
+    "startDate": "2025-02",
+    "current": true,
+    "description": "End-to-end automation of build, test, and deployment pipelines on VisaCloud with Jenkins integration, test reporting, and environment validation.",
+    "highlights": [
+      "Custom Jenkins & Visa API integration",
+      "Allure Reports & Stage View implementation",
+      "Improved release efficiency & reduced downtime"
+    ],
+    "url": "https://visa.com"
+  },
+  {
+    "name": "Dynaread Infrastructure Migration",
+    "startDate": "2023-11",
+    "endDate": "2025-01",
+    "description": "Migrated core infrastructure from GCP to Digital Ocean while modernizing deployments with CI/CD and Docker.",
+    "highlights": [
+      "Migrated 12 websites and microservices",
+      "LAMP stack upgrade from version 5 to 8",
+      "Implemented zero-downtime Blue/Green deployments"
+    ],
+    "url": "https://dynaread.com"
+  },
+  {
+    "name": "Full Stack Web Development (Zekab Solutions)",
+    "startDate": "2022-12",
+    "endDate": "2023-03",
+    "description": "Worked on full-stack web applications using React, Node.js, Express, and MongoDB (Mongoose) with DevOps exposure.",
+    "highlights": [
+      "Developed dynamic React front-end interfaces",
+      "Built REST APIs with Express.js and Node.js",
+      "Implemented MongoDB schemas with Mongoose",
+      "Assisted with DevOps pipeline management"
+    ],
+    "url": "https://zekab.com"
+  }
+]                                                                                                                                                                                  
    "languages": [                                                                                                                                                                      
       {"language": "Urdu", "fluency": "Bilingual"},                                                                                                                                     
       {"language": "Punjabi", "fluency": "Bilingual"},                                                                                                                                  
